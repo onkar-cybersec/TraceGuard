@@ -1,0 +1,6 @@
+# Only the bundler's native-binary setup may run dependency build scripts.
+# All unlisted dependency scripts remain blocked by pnpm.
+allowBuilds:
+  esbuild: true
+  '@google/genai': false
+  protobufjs: false

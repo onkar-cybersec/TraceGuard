@@ -1,0 +1,27 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Sensitive credentials & keys
+*.pem
+*.key
+*.pkcs12
+*.p12
+
+# User uploaded logs and generated reports
+uploads/
+reports/
+*.audit_report.html
+*traceguard_*_redacted.json
+*traceguard_*_audit_report.html
+
+# IDE & temporary files
+.vscode/
+.idea/
+*.swp
+*.swo

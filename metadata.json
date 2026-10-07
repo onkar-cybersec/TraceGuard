@@ -1,0 +1,6 @@
+{
+  "name": "TraceGuard",
+  "description": "Defensive security log investigation console with deterministic correlation rules, in-browser parsing, secret redaction, and evidence-based reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
