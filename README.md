@@ -2,7 +2,7 @@
 
 A browser-based cybersecurity portfolio tool for investigating structured security logs. Five explainable rules correlate authentication failures, suspicious login success, privileged role changes, network egress, and possible exposed secrets.
 
-Built through **Handshake AI Skills Studio’s Vibe Code an App mission and Google AI Studio**, then reviewed and tested before release. It complements [AgentTripwire](https://github.com/onkar-cybersec/AgentTripwire).
+**Built by [onkar-cybersec](https://github.com/onkar-cybersec)** with AI assistance, then reviewed and tested before release. It complements [AgentTripwire](https://github.com/onkar-cybersec/AgentTripwire).
 
 ## Screenshots
 
